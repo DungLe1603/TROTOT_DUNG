@@ -7,11 +7,17 @@
     <string name="action_settings">Settings</string>
 
     //String Dung
+    <string name="signup">Sign Up</string>
+    <string name="username">User Name</string>
+    <string name="phone">Phone Number</string>
+    <string name="address">Address</string>
     <string name="login">Log In</string>
     <string name="email">Email</string>
     <string name="passowrd">Password</string>
+    <string name="repassword">Confirm Password</string>
     <string name="show_pwd">Show password</string>
     <string name="forgot">I forgot my password!</string>
+    <string name="already_user">I have an account. Log In now!</string>
     <string name="newUser">I dont have an account. Sign up now!</string>
     //end Dung
 </resources>
